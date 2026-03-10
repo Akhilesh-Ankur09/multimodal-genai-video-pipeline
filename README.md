@@ -25,24 +25,9 @@ The result is a **fully generated vertical video** optimized for platforms like 
 
 ## Pipeline Architecture
 
-```
-User Topic
-   ↓
-Gemini Script Generation
-   ↓
-Text-to-Speech Narration
-   ↓
-Whisper Word Timestamping
-   ↓
-Media Retrieval
-   ↓
-AI Frame Validation
-   ↓
-Subtitle Generation
-   ↓
-Video Assembly
-```
+## Pipeline Architecture
 
+![Pipeline Architecture](images/pipeline_architecture.png)
 ---
 
 ## Key Features
