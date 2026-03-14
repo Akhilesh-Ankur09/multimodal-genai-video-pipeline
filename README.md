@@ -118,7 +118,7 @@ This pipeline can be used for:
 
 ## Example Output
 
-[▶ Watch the generated video][[(outputs/download (5).mp4)]](https://raw.githubusercontent.com/Akhilesh-Ankur09/multimodal-genai-video-pipeline/main/outputs/download%20(5).mp4)
+[▶ Watch the generated video](https://raw.githubusercontent.com/Akhilesh-Ankur09/multimodal-genai-video-pipeline/main/outputs/download%20(5).mp4)
 ---
 
 ## Future Improvements
