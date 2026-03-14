@@ -118,7 +118,7 @@ This pipeline can be used for:
 
 ## Example Output
 
-[▶ Watch the generated video](outputs/download (5).mp4)
+[▶ Watch the generated video][(outputs/download (5).mp4)]
 ---
 
 ## Future Improvements
